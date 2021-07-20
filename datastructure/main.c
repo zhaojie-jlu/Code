@@ -2,12 +2,10 @@
 
 /*
  * The comment from the HUAWEI matebook X pro 2021
-<<<<<<< HEAD
  * DESK add comment
-=======
  *
  * 网页端新增注释 
->>>>>>> 276213b6a991f8204a972393e53505bebf22cf43
+ * 网页基线版本
  */
  
 int main(){
