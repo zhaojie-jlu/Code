@@ -4,6 +4,7 @@
 int main(){
 
 	printf("This will print the length of Bytes of Variable for Local System.\n");
+	printf("The System Arch is %s.\n",system("Ver"));
 	printf("The length of \"int\": %d\n",sizeof(int));
 	printf("The length of \"long\": %d\n",sizeof(long));
 	printf("The length of \"longlong\": %d\n",sizeof(long long));
