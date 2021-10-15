@@ -1,7 +1,7 @@
 /*
  * Author:zhaojie
  * create date:2021-07-10
- * copyright (c) Huawei technology Co.td
+ * copyright (c) HW technology Co.td
  */
 
 #ifndef BASIC_DATA_STRUCT_H
