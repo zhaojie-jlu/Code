@@ -20,6 +20,8 @@
 #define uint64 unsigned long long
 
 typedef enum {false, true} bool;
+#define VOS_OK  true
+#define VOS_NOK false
 
 #endif
 
