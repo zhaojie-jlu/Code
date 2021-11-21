@@ -1,4 +1,4 @@
-#include"BasicDataStruct.h"
+#include"Stack.h"
 
 /*
  * The comment from the HUAWEI matebook X pro 2021
@@ -22,13 +22,18 @@ int main(){
 	freeList(&L1);
 	printf("The Header is Navi to %p, The Header's Addr is %p", L1, &L1);
 */
+/* 
 	List L2 = NULL;
 	L2 = createList(false, 0);
 	printList(L2);
 	printf("%d\n", lenList(L2));
 	insertList(&L2, 22222, 0);
 	printList(L2);
-
+ */
+/* 	Stack* s = pnCreateStack(5, 0);
+	PrintStack(s);	
     return 0;
-
+ */
 }
+
+//new line

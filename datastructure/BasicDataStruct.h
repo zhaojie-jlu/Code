@@ -18,14 +18,11 @@
 #define int64 long long
 #define uint32 unsigned int
 #define uint64 unsigned long long
-
-typedef enum {false, true} bool;
 #define VOS_OK  true
 #define VOS_NOK false
-
 #endif
 
-
+typedef enum{false, true} bool;
 
 /*
  * 单向链表节点定义
